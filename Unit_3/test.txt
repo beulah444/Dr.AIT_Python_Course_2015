@@ -1,0 +1,2 @@
+X-DSPAM1-Confidence: 0.8475
+X-DSPAM2-Probability: 0.458
